@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Author: moomons
+# https://github.com/moomons/RayWenderlich-Crawler
+
 import re
 from scrapy.selector import Selector
 from scrapy.http import HtmlResponse
